@@ -1,5 +1,3 @@
-[#ADR-Editor.github.io]
-<!DOCTYPE html>
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
